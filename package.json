@@ -1,0 +1,14 @@
+{
+  "name": "handbrake-watcher.js",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "hbw": "./bin/index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.1",
+    "yargs": "^16.2.0"
+  }
+}
